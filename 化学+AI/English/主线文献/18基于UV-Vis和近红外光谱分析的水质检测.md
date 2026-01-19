@@ -153,9 +153,6 @@
 
 
 
-# 创新点总结  
-**论文：Water quality detection based on UV-Vis and NIR spectroscopy: a review**
-
 ---
 
 ## 一、总体创新定位（综述型创新）
