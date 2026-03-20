@@ -2,6 +2,6 @@
   "cssTheme": "Cyber Glow",
   "theme": "obsidian",
   "baseFontSize": 16,
-  "accentColor": "",
+  "accentColor": "#000000",
   "nativeMenus": false
 }
