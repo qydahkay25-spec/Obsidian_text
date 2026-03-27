@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Vauxhall",
-  "theme": "moonstone",
+  "cssTheme": "Neovim",
+  "theme": "obsidian",
   "baseFontSize": 16,
-  "accentColor": "#000000",
+  "accentColor": "#fff700",
   "nativeMenus": false
 }
