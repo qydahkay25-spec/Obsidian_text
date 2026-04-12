@@ -57,7 +57,7 @@
     这是很值得看的早期图模型溯源论文，适合拿来当你的方法基线。
 2. ==**Gated graph neural networks for identifying contamination sources in water distribution networks**  ==
     这篇更直接，就是面向 WDN 的污染源识别，把时空水质数据和流向信息一起建模。
-3. ==**Real-time water quality prediction in water distribution networks using graph neural networks with sparse monitoring data**  ==
+	1. ==**Real-time water quality prediction in water distribution networks using graph neural networks with sparse monitoring data**  ==
     虽然重点是全网水质预测，但它非常适合你借鉴“图构建 + 稀疏监测 + 全网推断”这套思路。
 4. ==**Graph neural networks-based dynamic water quality state estimation in water distribution networks**  ==
     这篇解决的是“传感器不够、节点没测到，怎么估计全网状态”，对你后面做污染传播判断很有帮助。
