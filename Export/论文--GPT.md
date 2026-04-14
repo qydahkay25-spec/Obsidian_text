@@ -112,3 +112,12 @@
 - Gated graph neural networks for identifying contamination sources...
 - Real-time water quality prediction in WDN using GNNs...
 - Graph neural networks-based dynamic water quality state estimation...
+
+
+但也要注意，**“源位置 + 开始/结束时间 + 注入浓度”本身并非全新任务**。例如 2021 年就已有 ML + 优化耦合方法，明确把问题定义为同时确定**污染源、开始时间、结束时间和注入浓度**
+Machine Learning and Simulation-Optimization Coupling for Water Distribution Network Contamination Source Detection
+
+同样，**未来扩散/全网状态预测**也已有相关研究。比如 GGNN 工作已经做到利用拓扑、流向和历史水质，在全网范围预测下一时刻水质状态；2025 年 PA-GAT 还把 physics-aware 机制用于实时污染预测。
+Real-time water quality prediction in water distribution networks using graph neural networks with sparse monitoring data
+
+
